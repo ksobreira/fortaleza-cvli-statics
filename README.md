@@ -157,8 +157,8 @@ project-cvli-fortaleza/
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/project-cvli.git
-cd project-cvli
+git clone https://github.com/ksobreira/fortaleza-cvli-statics.git
+cd fortaleza-cvli-statics
 ```
 
 ### Instale dependências
